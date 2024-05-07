@@ -1,0 +1,11 @@
+bin/
+obj/
+
+/node_modules
+/wwwroot/node_modules
+
+.fuse_hidden*
+.directory
+.Trash-*
+
+.nfs*
