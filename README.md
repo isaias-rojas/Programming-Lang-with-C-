@@ -19,17 +19,6 @@ The repository is structured as follows:
 - `Exercises/`: Contains additional exercises and practice problems related to the course content.
 - `Resources/`: Contains supplementary resources such as textbooks, articles, and links to external tutorials.
 
-## Contributing
-
-Feel free to contribute to this repository by adding your assignments, notes, exercises, or any other relevant resources. Contributions can include:
-
-- Adding new assignments completed during the course.
-- Updating or expanding existing notes with new insights or examples.
-- Adding new exercises or solving existing ones with alternative approaches.
-- Sharing useful resources or tutorials related to C# programming or programming languages in general.
-
-To contribute, simply fork this repository, make your changes, and submit a pull request. Your contributions are greatly appreciated!
-
 ## Feedback and Suggestions
 
 If you have any feedback, suggestions, or questions about the content of this repository or the Programming Languages course, please feel free to open an issue or reach out to the course instructor.
